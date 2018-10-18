@@ -43,12 +43,12 @@ export class Profile extends React.Component {
                 </div>
 
                 <div className="profile-entry">
-                    <div className="profile-entry-left">AST</div>
+                    <div className="profile-entry-left">Assists(AST)</div>
                     <div className="profile-entry-right">{`${ast}`}</div>
                 </div>
 
                 <div className="profile-entry">
-                    <div className="profile-entry-left">REB</div>
+                    <div className="profile-entry-left">Rebounds(REB)</div>
                     <div className="profile-entry-right">{`${reb}`}</div>
                 </div>
 
