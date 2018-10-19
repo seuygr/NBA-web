@@ -3,4 +3,4 @@
 	Utilized different filters and themes to provide more customized visualization on the shotchart.
 	Developed an autocomplete player search bar providing a list of players.
 
-All data comes from [NBA](https://stats.nba.com/)
+All data comes from (https://stats.nba.com/)
