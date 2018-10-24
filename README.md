@@ -4,9 +4,14 @@ The National Basketball Association (NBA) is a men's professional basketball lea
 Here in this project, I created a dashboard to visualize each indicidual player's shot data using React, d3 and Ant Design.   
 With the help of [d3 shot chart](https://github.com/mamcmanus/d3-shotchart), I could use different filters and themes to provide more customized visualization options. Finally, I developed an autocomplete player search bar to locate a list of players.    
 
-All the data coms from [NBA stats](https://stats.nba.com/) and https://github.com/bttmly/nba
 
 # Shot Chart
-Shooting charts can help to identify trends, strengths, weaknesses of each individual player and ultimately to give some insights to improve the team's performance.
+Shooting charts can help to identify trends, strengths, weaknesses of each individual player and ultimately to give some insights to improve the team's performance. In the following example, Stephan Curry's stats are fetched from [NBA stats](https://stats.nba.com/) from https://github.com/bttmly/nba. And then with the help of d3, the stats can be visualized in to a chart which shows the all the shots Stephan Curry has made or missed.
 
-![Shot Chart Overview](https://github.com/seuygr/NBA-web/blob/master/images/Main.png)
+![image](https://github.com/seuygr/NBA-web/blob/master/images/Main.png)
+
+# Search Bar
+An autocomplete search bar has been provided for users to search for players. For examl=ple, I am looking for "James", and then I can easily find "Lebron James" with an image of him.  
+
+![image](https://github.com/seuygr/NBA-web/blob/master/images/SearchingBar.png)
+![image](https://github.com/seuygr/NBA-web/blob/master/images/PlayerStats.png)
