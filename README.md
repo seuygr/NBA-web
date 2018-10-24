@@ -8,3 +8,5 @@ All the data coms from [NBA stats](https://stats.nba.com/) and https://github.co
 
 # Shot Chart
 Shooting charts can help to identify trends, strengths, weaknesses of each individual player and ultimately to give some insights to improve the team's performance.
+
+![Shot Chart Overview](https://github.com/seuygr/NBA-web/blob/master/images/Main.png)
